@@ -120,3 +120,13 @@ h1 { font-size: clamp(2.4rem, 6vw, 4.2rem); line-height: 1.12; margin: 18px 0 10
     background-color: #1d4ed8;
 }
 
+
+.profile-photo {
+    width: 280px;
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    display: block;
+}
+
