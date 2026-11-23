@@ -89,3 +89,34 @@ h1 { font-size: clamp(2.4rem, 6vw, 4.2rem); line-height: 1.12; margin: 18px 0 10
   color: #cbd5e1;
 }
 
+
+/* Resume Page */
+
+.resume-page {
+    padding-top: 70px;
+    padding-bottom: 100px;
+    min-height: 400px;
+}
+
+.resume-page h1 {
+    margin-bottom: 20px;
+}
+
+.resume-page p {
+    margin-bottom: 25px;
+    line-height: 1.6;
+}
+
+.resume-link {
+    display: inline-block;
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.resume-link:hover {
+    background-color: #1d4ed8;
+}
+
